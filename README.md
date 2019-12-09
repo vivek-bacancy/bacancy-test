@@ -8,3 +8,4 @@
 * `node app.js POSTID`
     - POSTID = Id of post (ex. 38)
 * `npm test` to run test cases.
+* `npm run coverage` to get test coverage.
