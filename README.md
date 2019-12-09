@@ -1,6 +1,6 @@
 # bacancy-test
 
-## Prerequiests
+## Prerequisite
  * Node(v12.0.0)
 
 ## How to run?
